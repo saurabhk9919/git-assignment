@@ -1,2 +1,3 @@
 Name: Saurabh Kashyap
 City: Ghaziabad
+Skills: JavaScript, Python, SQL, React, Node.js
